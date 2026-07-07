@@ -1,4 +1,4 @@
-# Millet Plaza — Franchise Landing Page
+# Millet Plaza Franchise Landing Page
 
 A single page marketing site built to promote Millet Plaza's franchise investment opportunity, built with plain HTML, CSS, and JavaScript (no framework/build step required).
 
